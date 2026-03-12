@@ -15,5 +15,8 @@ Este proyecto integra Ciencia de Datos y Business Intelligence para optimizar el
 * **Power BI:** Dashboard interactivo para la toma de decisiones gerenciales.
 
 ---
+### 📂 Cómo visualizar el Dashboard:
+* **Interactivo:** Si cuentas con Power BI Desktop, puedes descargar el archivo `Dashboard_Olist.pbix` de este repositorio para explorar los filtros y la interactividad completa.
+* **Vista previa:** He incluido capturas de pantalla a continuación para una revisión rápida de los hallazgos clave.
 
 ![Dashboard de Olist](olistBI.jpeg)
