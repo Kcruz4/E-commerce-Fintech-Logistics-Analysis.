@@ -16,3 +16,4 @@ Este proyecto integra Ciencia de Datos y Business Intelligence para optimizar el
 
 ---
 
+![Dashboard de Olist](olistBI.jpeg)
