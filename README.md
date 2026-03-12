@@ -15,4 +15,4 @@ Este proyecto integra Ciencia de Datos y Business Intelligence para optimizar el
 * **Power BI:** Dashboard interactivo para la toma de decisiones gerenciales.
 
 ---
-*Proyecto realizado como parte del programa de especialización en Data Science de **TripleTen**.*
+
