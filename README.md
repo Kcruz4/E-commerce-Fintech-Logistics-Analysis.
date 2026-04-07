@@ -1,22 +1,82 @@
-# E-commerce-Fintech-Logistics-Analysis.
-Análisis End-to-End de eficiencia operativa en Olist usando Python y Power BI.
+# 📊 Olist Operational Efficiency Analysis
 
-# 📊 Diagnóstico de Eficiencia Operativa: E-commerce, Fintech & Logística
-
-Este proyecto integra Ciencia de Datos y Business Intelligence para optimizar el ecosistema de **Olist (Brasil)**. 
-
-### 🚀 Impacto de Negocio:
-* **Logística:** Identificación de un **7.83% de incumplimiento global** en entregas.
-* **Fintech:** Descubrimiento del impacto del pago con **Boleto**, que incrementa el riesgo de retraso en casi 1%.
-* **E-commerce:** Detección de categorías críticas con hasta **16.1% de falla** (Casa Conforto 2).
-
-### 🛠️ Herramientas utilizadas:
-* **Python (Pandas, Seaborn):** Limpieza, unión de datos y análisis estadístico.
-* **Power BI:** Dashboard interactivo para la toma de decisiones gerenciales.
+**E-commerce | Fintech | Logistics | Data Science Project**
 
 ---
-### 📂 Cómo visualizar el Dashboard:
-* **Interactivo:** Si cuentas con Power BI Desktop, puedes descargar el archivo `Dashboard_Olist.pbix` de este repositorio para explorar los filtros y la interactividad completa.
-* **Vista previa:** He incluido capturas de pantalla a continuación para una revisión rápida de los hallazgos clave.
+
+## 📌 Project Overview
+
+This project delivers an end-to-end analysis of operational efficiency within the Olist ecosystem (Brazil), integrating **Data Science and Business Intelligence** to identify key inefficiencies across e-commerce, fintech, and logistics operations.
+
+---
+
+## 🎯 Business Objective
+
+* Evaluate delivery performance and identify delays
+* Analyze payment methods and their impact on operations
+* Detect high-risk product categories
+* Provide actionable insights to improve efficiency
+
+---
+
+## 🚀 Business Impact
+
+* **Logistics:** Identified a **7.83% global delivery delay rate**
+* **Fintech:** Found that **Boleto payments increase delay risk by ~1%**
+* **E-commerce:** Detected critical categories with up to **16.1% failure rate**
+
+---
+
+## 📊 Data & Methodology
+
+* Data cleaning and preprocessing
+* Merging multiple datasets
+* Exploratory Data Analysis (EDA)
+* Statistical analysis to identify patterns and risks
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Python:** Pandas, Seaborn
+* **Power BI:** Interactive dashboard for business insights
+
+---
+
+## 📈 Dashboard
+
+The project includes an interactive Power BI dashboard designed for decision-making.
+
+* 📥 Download the `.pbix` file to explore filters and insights
+* 📸 Screenshots are included for quick preview
+
+---
+
+## 🔑 Key Insights
+
+* Delivery delays are strongly linked to logistics bottlenecks
+* Payment method directly impacts operational efficiency
+* Certain product categories represent significant risk
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── data/
+├── notebooks/
+├── dashboard/
+│   └── Dashboard_Olist.pbix
+├── images/
+└── README.md
+```
+
+---
+
+## 📬 Contact
+
+Karen Cruz
+Aspiring Data Scientist
+
 
 ![Dashboard de Olist](olistBI.jpeg)
