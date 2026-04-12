@@ -36,19 +36,20 @@ This project delivers an end-to-end analysis of operational efficiency within th
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-* **Python:** Pandas, Seaborn
-* **Power BI:** Interactive dashboard for business insights
+* **Python:** Pandas, NumPy
+* **Visualization:** Seaborn, Matplotlib
+* **Business Intelligence:** Power BI
 
 ---
 
 ## 📈 Dashboard
 
-The project includes an interactive Power BI dashboard designed for decision-making.
+The project includes an interactive Power BI dashboard designed to support business decision-making.
 
 * 📥 Download the `.pbix` file to explore filters and insights
-* 📸 Screenshots are included for quick preview
+* 📸 Screenshots included for quick preview
 
 ---
 
@@ -60,9 +61,15 @@ The project includes an interactive Power BI dashboard designed for decision-mak
 
 ---
 
+## 🎯 Business Value
+
+This project demonstrates how data can be used to **optimize operations, reduce risk, and support strategic decision-making in e-commerce platforms**.
+
+---
+
 ## 📂 Project Structure
 
-```bash
+```
 ├── data/
 ├── notebooks/
 ├── dashboard/
@@ -76,7 +83,8 @@ The project includes an interactive Power BI dashboard designed for decision-mak
 ## 📬 Contact
 
 Karen Cruz
-Aspiring Data Scientist
+Data Scientist
+
 
 
 ![Dashboard de Olist](olistBI.jpeg)
