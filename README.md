@@ -87,4 +87,4 @@ Data Scientist
 
 
 
-![Dashboard de Olist](olistBI.jpeg)
+![Dashboard de Olist](image (4).png)
